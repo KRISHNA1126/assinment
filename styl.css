@@ -1,0 +1,68 @@
+#zomato{font-style: inherit; text-align: left; letter-spacing: 10px; padding-left: 15px; background:lavender;color: black; }
+        #register{text-align: right; background:  white; float: right; margin-right: 10px; margin-top:-51px;}
+        #login{text-align: right; background:  white; float: right; margin-right: 73px; margin-top:-51px;}
+        #home{text-align: right; background:  white; float: left ; margin-left: 225px;margin-top:-51px;}
+        #search{
+    height:450px;
+   
+    background-image:url(image/food.jpg);
+    background-repeat: no-repeat;
+
+    background-size: 100% 450px ;
+}
+    #heading{text-align: center; font-style: inherit; color:white; font-size:xx-large;
+        margin-top: 22%;
+    margin-left: 37%;
+    position: absolute; background:black; border-radius: 50%;}
+    #logo {
+    background-color: black;
+    width: 9%;
+    height: 131px;
+    margin-top: 10%;
+    margin-left: 47%;
+    position: absolute; border-radius: 50%;
+}
+    #logo>span { text-align: center; font-size: 80px; font-style: oblique; color: white;position: absolute; margin-top: 17px; margin-left: 20px; }
+    #main {
+        background-color: silver;
+        height: 730px;
+        width: 100%;
+        margin-top: -16px;
+    }
+    #h2 {
+        font-family: cursive;
+        margin-left: 45%;
+        margin-top: 2px;
+        position: absolute;
+        display: block;
+        font-size: 30px ;
+    }
+    #h3 { line-height: 31px;
+        font-family : cursive;
+        margin-left: 42%;
+        margin-top: 50px;
+        position: absolute;
+        color: brown;
+        background: lavender 
+    }
+    #items {
+        margin-left: 1px;
+        position: absolute;
+        margin-top: 81px;
+        width: 1333px;
+        height: 173%;
+        background-color: cadetblue;
+    }
+.card {
+    margin-top: 30px;
+    margin-left: 18px;
+    height: 260px;
+    width: 23%;
+    
+    float: left;
+}
+
+#go {
+    margin-left: 90px;
+    font-family: fantasy;
+}
